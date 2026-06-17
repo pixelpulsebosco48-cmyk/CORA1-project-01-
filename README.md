@@ -1,4 +1,23 @@
 <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>⚡ 復古怪誕療癒街機 15合1 ⚡</title>
+</head>
+<body>
+  <div id="menu-screen">
+    <div id="menu-grid"></div>
+  </div>
+  <div id="game-screen">
+    <canvas id="gameCanvas"></canvas>
+    <div id="hud"></div>
+    <div id="controls"></div>
+  </div>
+  <script>
+    // your game code here
+  </script>
+</body>
+</html><!DOCTYPE html>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8" />
